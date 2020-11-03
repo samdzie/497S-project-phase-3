@@ -65,7 +65,8 @@ release is created.
 - [Images](https://github.com/Angela-N/image-microservice)
 
 ## Demo Video
-...
+A video demonstration can be viewed [here][2].
 
 
 [1]: https://sites.google.com/cs.umass.edu/compsci-497s-f20-submissions
+[2]: https://drive.google.com/file/d/1xU_e33yZmhlKAJOBuIhxca_rhWeIXy8O/view?usp=sharing
