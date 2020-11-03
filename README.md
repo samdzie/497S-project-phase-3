@@ -7,6 +7,8 @@ online calendar. The goal is to allow groups of people - whether they
 be friend groups, clubs, or organizations - to have an easy-to-use tool
 for organizing events.
 
+This project was developed for [CS 497S: Scalable Web Systems][1], taught by Professor Tim Richards at UMass Amherst in Fall 2020.
+
 ## Team Members
 - Hichem Bennia
 - Sam Dziewietin
@@ -28,3 +30,6 @@ for organizing events.
 
 ## Demo Video
 ...
+
+
+[1]: https://sites.google.com/cs.umass.edu/compsci-497s-f20-submissions
