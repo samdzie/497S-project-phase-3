@@ -32,10 +32,31 @@ to the other services to obtain the necessary data.
 
 Each service is built into a Docker image (or several with
 docker-compose). These images are then deployed to AWS Elastic
-Beanstalk.
+Beanstalk (EB).
 
 ## Scalability
-...
+Most of our scalability considerations are taken from recommendations
+given in Sam Newman's *Building Microservices*.
+
+Our first major step towards addressing scalability concerns is by
+establishing service boundaries such that each team member develops,
+tests, and deploys their own microservice. This allows each team member
+to select the technology that best fits their needs and also allows
+each service to be scaled independently of the others (e.g. by
+deploying more instances).
+
+Our method of deployment is to build Docker images and deploy them on
+Elastic Beanstalk. This approach significantly reduces the time and
+effort required for deployment and allows us to rapidly expand the
+number of server instances, if necessary.
+
+As demonstrated in the Web UI service, we are developing the ability to
+employ continuous integration (CI) and continuous delivery (CD) to
+significantly speed up the development and release processes. GitHub
+Actions allows us to run a CI workflow on each push, using pytest to
+run unit and service tests. GitHub Actions also permits us to
+automatically deploy our services to Elastic Beanstalk when a new
+release is created.
 
 ## Repositories
 - [Web UI](https://github.com/samdzie/group-web-ui)
