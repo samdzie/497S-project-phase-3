@@ -1,7 +1,11 @@
 # Team Vision: Project Phase 3
 
 ## Overview
-...
+Our project is a web application for organizing communities. Our vision
+is to combine the features of a home webpage with those of a shared
+online calendar. The goal is to allow groups of people - whether they
+be friend groups, clubs, or organizations - to have an easy-to-use tool
+for organizing events.
 
 ## Team Members
 - Hichem Bennia
