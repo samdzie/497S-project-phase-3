@@ -61,7 +61,7 @@ release is created.
 ## Repositories
 - [Web UI](https://github.com/samdzie/group-web-ui)
 - [Homepages](https://github.com/HichBen/homepage-api)
-- Events
+- [Events](https://github.com/zenpadua/497S-events-microservice)
 - [Images](https://github.com/Angela-N/image-microservice)
 
 ## Demo Video
