@@ -69,4 +69,4 @@ A video demonstration can be viewed [here][2].
 
 
 [1]: https://sites.google.com/cs.umass.edu/compsci-497s-f20-submissions
-[2]: https://drive.google.com/file/d/1xU_e33yZmhlKAJOBuIhxca_rhWeIXy8O/view?usp=sharing
+[2]: https://drive.google.com/file/d/11MxtQVwE5J2rckGHlu8QrvdK-ytABg2m/view?usp=sharing
